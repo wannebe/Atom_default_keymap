@@ -1,6 +1,7 @@
 # Atom_default_keymap
 Atom编辑器快捷键汉化！！！！
-
+=====
+这个伙计写的我mark啦，以后几个编辑器换着用，atom不错!
 ---
 
 #File【文件】
